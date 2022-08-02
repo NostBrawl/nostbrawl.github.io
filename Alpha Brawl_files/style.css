@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Secular+One&display=swap");
+
+p {
+
+  font-family: "Secular One", sans-serif;
+
+  text-align: center;
+
+}
+
+img {
+
+  width: 100%;
+
+}
+
+#logo {
+
+  display: block;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  height: auto;
+
+  width: 25%;
+
+}
+
+#discord {
+
+  display: block;
+
+  margin-left: auto;
+
+  margin-right: auto;
+
+  width: 25%;
+
+  border-radius: 50%;
+
+}
+
+body {
+
+  max-width:100%;
+
+}
+
